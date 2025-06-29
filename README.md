@@ -66,3 +66,6 @@ MIT
   - **DRY (Don’t Repeat Yourself):** Избегайте дублирования кода.
   - **KISS (Keep It Simple):** Минимизируйте сложность без потери функциональности.
   - **YAGNI (You Aren’t Gonna Need It):** Не добавляйте функционал "на будущее".
+
+[Презентация](https://docs.google.com/presentation/d/1EqboysivY6gKBhINFyGZbHnmvi7tB33-gcjIGri_cMs/edit?usp=sharing)
+[Скрин-каст](https://drive.google.com/file/d/1u6lqXxyZaFNATQxUXG-yJMOJafW9dZKz/view?usp=sharing)
